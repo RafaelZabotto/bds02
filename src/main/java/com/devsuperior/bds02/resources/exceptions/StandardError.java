@@ -1,4 +1,4 @@
-package com.rafaelzabotto.dscatalog.resources.exceptions;
+package com.devsuperior.bds02.resources.exceptions;
 
 import java.io.Serializable;
 import java.time.Instant;

@@ -1,7 +1,8 @@
-package com.rafaelzabotto.dscatalog.resources.exceptions;
+package com.devsuperior.bds02.resources.exceptions;
 
-import com.rafaelzabotto.dscatalog.services.exceptions.DatabaseException;
-import com.rafaelzabotto.dscatalog.services.exceptions.ResourceNotFoundException;
+
+import com.devsuperior.bds02.services.exceptions.DatabaseException;
+import com.devsuperior.bds02.services.exceptions.ResourceNotFoundException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;
